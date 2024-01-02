@@ -1,0 +1,39 @@
+body{
+  font-family: Arial;
+  background-color: white;
+  padding: 30px;
+  color: #000000;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto 300px;
+  padding: 20px 30px;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+p{
+  margin: 10px 0;
+}
+
+input {
+  box-sizing: border-box;
+}
+
+.todo-form{
+  padding-bottom: 1.5rem;
+}
+
+input, select{
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #DDD;
+  width: 100%;
+}
